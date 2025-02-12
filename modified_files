@@ -1,0 +1,9 @@
+cicecore/cicedyn/general/finally_working
+cicecore/cicedyn/general/ice_forcing.F90.jak
+cicecore/cicedyn/general/ice_init.F90.jak
+cicecore/cicedyn/infrastructure/ice_grid.F90
+cicecore/cicedyn/infrastructure/ice_grid.F90.jakmod1line
+cicecore/cicedyn/infrastructure/ice_read_write.F90.jak
+cicecore/cicedyn/infrastructure/ice_read_write.F90.simple_noRS
+cicecore/cicedyn/infrastructure/read_fvcom.F90
+
